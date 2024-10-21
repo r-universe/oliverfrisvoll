@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/oliverfrisvoll/oliverfrisvoll.r-universe.dev
 	branch = HEAD
+[submodule "EikonDownloader"]
+	path = EikonDownloader
+	url = https://github.com/OliverFrisvoll/EikonDownloader
